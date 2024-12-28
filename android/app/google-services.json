@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334515678720",
+    "project_id": "storage-management-54d67",
+    "storage_bucket": "storage-management-54d67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334515678720:android:0862f65a2ad5e677ba32e5",
+        "android_client_info": {
+          "package_name": "com.example.st_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYbYJXUY7oVG7nsF7OAimGUNQrmCmx-7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
