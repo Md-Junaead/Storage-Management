@@ -29,6 +29,8 @@ android {
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        // other configurations
+        minSdkVersion 23  // This is the line you need to update
     }
 
     buildTypes {
